@@ -6,6 +6,7 @@ void test_strcpy(void);
 void test_write(void);
 void test_read(void);
 void test_strdup(void);
+void test_list_size(void);
 
 int main(void)
 {
